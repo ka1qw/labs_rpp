@@ -77,3 +77,5 @@ w.addWidget(mainWindow)
 w.setFixedSize(472, 256)
 w.show()
 sys.exit(application.exec_())
+
+print('CHANGES')
